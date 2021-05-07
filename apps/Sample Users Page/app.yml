@@ -8,7 +8,7 @@ appTemplate:
   pageLoadValueOverrides: []
   customDocumentTitle: ''
   isGlobalWidget: false
-  isFetching: false
+  isFetching: true
   instrumentationEnabled: false
   customDocumentTitleEnabled: false
   preloadedAppJSLinks:
