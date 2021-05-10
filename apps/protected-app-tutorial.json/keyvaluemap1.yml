@@ -1,0 +1,45 @@
+id: keyvaluemap1
+type: widget
+subtype: KeyValueMapWidget
+template:
+  ordered:
+    - rowHeaderNames:
+        ordered: []
+    - rowFormats:
+        ordered: []
+    - valueTitle: Value
+    - data: '{{table1.selectedRow.data}}'
+    - prevRowMappers:
+        ordered: []
+    - rowMappersRenderAsHTML:
+        ordered: []
+    - rowVisibility:
+        ordered:
+          - a: true
+          - b: true
+          - c: true
+          - id: true
+          - name: true
+          - email: true
+          - sales: true
+    - prevRowFormats:
+        ordered: []
+    - rowMappers:
+        ordered: []
+    - rows:
+        - a
+        - b
+        - c
+        - id
+        - name
+        - email
+        - sales
+    - keyTitle: Key
+style:
+  ordered: []
+position2:
+  position2:
+    row: 9
+    height: 8
+    width: 5
+createdAt: 2021-04-20T17:21:25.911Z
