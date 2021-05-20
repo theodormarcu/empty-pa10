@@ -12,6 +12,8 @@ template:
     - url: ''
     - newWindow: false
     - value: Submit
+    - style:
+        ordered: []
     - exportQuery: ''
     - action: ''
     - internalUrlQuery: ''
@@ -24,7 +26,7 @@ style:
 position2:
   position2:
     row: 6
-    col: 8
+    col: 9
     height: 1
     width: 2
 createdAt: 2021-05-07T19:50:09.368Z
