@@ -12,6 +12,8 @@ template:
     - url: ''
     - newWindow: false
     - value: Submit
+    - style:
+        ordered: []
     - exportQuery: ''
     - action: ''
     - internalUrlQuery: ''
