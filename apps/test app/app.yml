@@ -10,12 +10,12 @@ appTemplate:
   pageLoadValueOverrides: []
   customDocumentTitle: ''
   isGlobalWidget: false
-  isFetching: false
+  isFetching: true
   instrumentationEnabled: false
   customDocumentTitleEnabled: false
   preloadedAppJSLinks:
     array: []
-  version: 2.68.9
+  version: 2.69.2
   responsiveLayoutDisabled: false
   createdAt: null
   customShortcuts:

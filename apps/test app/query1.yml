@@ -46,6 +46,7 @@ template:
     - queryTriggerDelay: '0'
     - watchedParams: []
     - enableErrorTransformer: false
+    - showLatestVersionUpdatedWarning: false
     - paginationDataField: ''
     - timestamp: 0
     - importedQueryDefaults:
