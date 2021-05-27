@@ -21,7 +21,8 @@ style:
   ordered: []
 position2:
   position2:
-    col: 2
+    row: 3
+    col: 5
     height: 1
     width: 5
 createdAt: 2021-02-17T01:31:26.099Z
