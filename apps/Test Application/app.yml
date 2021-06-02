@@ -9,6 +9,8 @@ appTemplate:
   customDocumentTitle: ''
   isGlobalWidget: false
   isFetching: false
+  testEntities:
+    array: []
   instrumentationEnabled: false
   customDocumentTitleEnabled: false
   preloadedAppJSLinks:
