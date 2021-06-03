@@ -9,11 +9,13 @@ appTemplate:
   customDocumentTitle: ''
   isGlobalWidget: false
   isFetching: false
+  testEntities:
+    array: []
   instrumentationEnabled: false
   customDocumentTitleEnabled: false
   preloadedAppJSLinks:
     array: []
-  version: 2.68.10
+  version: 2.69.9
   responsiveLayoutDisabled: false
   createdAt: null
   customShortcuts:
